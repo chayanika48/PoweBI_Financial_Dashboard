@@ -1,4 +1,4 @@
-# PoweBI_Financial_Dashboard
+# PowerBI_Financial_Dashboard
 
 Introducing the Financial Performance Dashboard!
 
